@@ -51,6 +51,7 @@ I started by analyzing the provided design and breaking it into sections. The ma
 - Learned how to put small image on a container.
 ```css
 .text h3:hover{
+    cursor: pointer;
     color: hsl(47, 88%, 63%);
 }
 ```

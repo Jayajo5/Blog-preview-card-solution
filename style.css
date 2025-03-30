@@ -50,6 +50,7 @@ span{
 }
 
 .text h3:hover{
+    cursor: pointer;
     color: hsl(47, 88%, 63%);
 }
 
