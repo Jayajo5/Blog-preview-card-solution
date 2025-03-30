@@ -32,8 +32,8 @@ Blog preview card solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here is my Blog preview card solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-flexbox-gDlh0LnvKL)
+- Live Site URL: [My live site URL here](https://jayajo5.github.io/Blog-preview-card-solution/)
 
 ## My process
 I started by analyzing the provided design and breaking it into sections. The main structure consists of a container with a Blog preview card image and a text description.
